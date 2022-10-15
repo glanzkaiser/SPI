@@ -11,7 +11,7 @@ We will learn from the established programming language and read the book, while
 
 # Source
 
-1. Book: Concepts of Programming Languages 12th Edition, Eobert W. Sebesta, University of Colorado at Colorado Springs
+1. Book: Concepts of Programming Languages 12th Edition, Robert W. Sebesta, University of Colorado at Colorado Springs
 
 # Team
 
