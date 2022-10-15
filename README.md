@@ -5,9 +5,13 @@ We will see more will join in the future, anyone can contribute and learn. This 
 
 We will learn from the established programming language and read the book, while creating a book on how to create SolreyaPI, thus anyone can invent their own programming language or beyond in the future, better than the current one.
 
+# The Icon
+
+![SPI](SPI.png)
+
 # Source
 
-1. Book: 
+1. Book: Concepts of Programming Languages 12th Edition, Eobert W. Sebesta, University of Colorado at Colorado Springs
 
 # Team
 
