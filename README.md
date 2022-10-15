@@ -21,4 +21,8 @@ We will learn from the established programming language and read the book, while
 
 3. Lasthrim
 
+# Established on
+
+October 15th, 2022
+
 #### the rest of 8 Queens already occupied with their own great job so only 3 initial founder, just like the flying birds (3 birds flying together to the same direction), that I saw while praying and talking on St Mary statue -Glanz
