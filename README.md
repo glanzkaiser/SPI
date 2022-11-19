@@ -12,6 +12,7 @@ We will learn from the established programming language and read the book, while
 # Source
 
 1. Book: Concepts of Programming Languages 12th Edition, Robert W. Sebesta, University of Colorado at Colorado Springs
+2. Book: Let's Build a Compiler 1.9, October 10 2012, Jack Crenshaw (this book reminds me of LFS book)
 
 # Team
 
@@ -20,6 +21,8 @@ We will learn from the established programming language and read the book, while
 2. Glanz
 
 3. Lasthrim
+
+4. Hamzst (Officially join later on November 19th, 2022 on 09:12 AM (UTC+2), L'Aquila, Italy time)
 
 # Established on
 
